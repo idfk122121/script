@@ -8,3 +8,5 @@ wait(0.3)
 Humanoid.Sit = false
 
 Humanoid.Stunned = false
+
+end
